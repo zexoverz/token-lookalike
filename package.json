@@ -35,6 +35,7 @@
   ],
   "homepage": "https://github.com/zexoverz/token-lookalike",
   "dependencies": {
+    "@uniswap/token-lists": "1.0.0-beta.35",
     "viem": "^2.56.9",
     "zod": "^4.6.5"
   },
